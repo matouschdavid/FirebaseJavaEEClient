@@ -22,7 +22,7 @@ public class InitBean {
     private ShowFacade showFacade;
 
     private static final String PROJECTID = "fir-referat-2a269";
-    private static final String SERVICEFILEPATH = "C:\\Users\\mcamp\\Documents\\Schule\\NVS\\FirebaseJavaEE\\src\\main\\resources\\fir-referat-2a269-firebase-adminsdk-n46ik-6a59ad86a3.json";
+    private static final String SERVICEFILEPATH = "";
 
     @PostConstruct
     public void init() throws IOException, ExecutionException, InterruptedException {
